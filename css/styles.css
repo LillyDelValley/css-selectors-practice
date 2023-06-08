@@ -29,3 +29,7 @@ ul>li {
 p ~ ul {
     background-color: rgb(42, 59, 42);
 }
+
+h2+h3 {
+    color:blue;
+}
