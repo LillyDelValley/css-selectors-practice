@@ -21,3 +21,7 @@ p[lang="fr"], .purple {
 body p {
     background-color: wheat;
 }
+
+ul>li {
+    color:hotpink
+    }
