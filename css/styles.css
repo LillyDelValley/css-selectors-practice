@@ -13,3 +13,7 @@ p {
 p[lang="fr"] {
     color: blue;
 }
+
+p[lang="fr"], .purple {
+    text-decoration:line-through;
+}
