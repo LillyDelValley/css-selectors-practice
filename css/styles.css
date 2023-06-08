@@ -17,3 +17,7 @@ p[lang="fr"] {
 p[lang="fr"], .purple {
     text-decoration:line-through;
 }
+
+body p {
+    background-color: wheat;
+}
