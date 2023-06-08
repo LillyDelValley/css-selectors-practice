@@ -9,3 +9,7 @@ p {
 #green {
     color:darkgreen;
 }
+
+p[lang="fr"] {
+    color: blue;
+}
